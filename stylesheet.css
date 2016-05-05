@@ -1,0 +1,90 @@
+body {
+	font-family: arial, sans-serif;
+
+}
+
+.navbar {
+	text-align: right;
+	margin-top:20px;
+
+}
+
+.navbar a:link, .navbar a:visited, .navbar a:hover, .navbar a:active {
+	color:#000;
+	opacity:0.75;
+	padding: 5px;
+	text-decoration:none;
+	font-size:13px;
+}
+
+div {
+	white-space:nowrap;
+}
+
+
+#google_img {
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:160px;
+
+}
+
+#searchbox {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width: 400px;
+	margin-top:20px;
+	opacity:0.50;
+	padding:10px;
+
+
+
+
+}
+
+table.center {
+	margin-left:auto;
+	margin-right:auto;
+	opacity:0.75;
+	font-family:arial, sans-serif;
+
+
+}
+
+.footer {
+	position:absolute;
+	background-color:#f2f2f2;
+	width:100%;
+	padding:5px;
+	margin-left:-10px;
+	bottom:0;
+}
+
+
+.leftfoot {
+	margin-right:auto;
+	text-align:left;
+}
+
+.rightfoot {
+	margin-left:50%;
+	text-align:right;
+}
+
+.footer a:link, .navbar a:visited, .navbar a:hover, .navbar a:active {
+	padding:5px;
+	color:#000;
+	opacity:0.75;
+	text-decoration:none;
+	font-size:13px;
+}
+
+form input[type="submit"] {
+	background:#f2f2f2;
+	border:none;
+	padding:10px;
+	font-weight:bold;
+
+}
